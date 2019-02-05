@@ -1,0 +1,29 @@
+body{ background-color: darkkhaki!important; }
+
+h1,h2,h3,{
+            color: black !important;
+}
+
+p,h4{ color: dimgray !important;}
+
+h1{ text-align: center !important;
+    padding: 60px 30px 25px 30px !important;
+    font-family: 'Anton', sans-serif !important;}
+
+h2,h3,h4,h5{ font-family: 'Acme', sans-serif !important;}
+
+p{ text-align: justify !important;
+   font-family: 'Raleway', sans-serif !important;
+   font-size: 20px;}
+
+.centrado{ 
+    text-align: center !important;
+}
+
+.hover:hover{
+    transform: scale(1.2,1.2)
+}
+
+.padding{
+    padding-bottom: 20px;
+}
