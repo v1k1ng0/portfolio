@@ -31,3 +31,6 @@ p{ text-align: justify !important;
     padding: 20px;
     padding-bottom:  20px;
 }
+.paddingtop{
+    padding-top: 80px;
+}
